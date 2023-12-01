@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UEProject\\ActionGame\\Source\\ActionGame\\ActionGame.Build.cs",
+		"D:\\UEProject\\ActionGame\\Source\\ActionGame.Target.cs",
+		"D:\\UEProject\\ActionGame\\Source\\ActionGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
