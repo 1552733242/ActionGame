@@ -332,6 +332,14 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
+.idea
+.vs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.sln
+
 # OpenCover UI analysis results
 OpenCover/
 
